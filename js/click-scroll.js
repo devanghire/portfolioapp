@@ -1,7 +1,8 @@
 //jquery-click-scroll
 //by syamsul'isul' Arifin
 
-var sectionArray = [1, 2, 3, 4, 5];
+// Order must match the navbar links (and page order): Home, About, Experience, Services, Projects, Contact
+var sectionArray = [1, 2, 6, 3, 4, 5];
 
 $.each(sectionArray, function(index, value){
           
